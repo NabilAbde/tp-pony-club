@@ -1,14 +1,14 @@
-# Pony Club
+# Pony Club private 
 
 Ce lab est un exercice du cours "Débuter avec Git et Github" dispensé par Nicolas Bauwens ([nbwns](https://github.com/nbwns)) à Bruxelles Formation Cepegra.
 
-## Pour commencer
+## Pour commencer prendre une grande respiration
 
 1. Télécharger et installer Git
 2. Récupérer ce projet en local en téléchargeant le zip et en mettant son contenu dans un répertoire 
 3. Lancer la console :)
 
-## Les bases
+## Les bases cest la base
 
 1. Configurer Git avec son nom et e-mail
 2. Se placer dans le répertoire et faire `git init`
